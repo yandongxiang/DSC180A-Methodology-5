@@ -1,4 +1,4 @@
-Yandong Xiang (yaxiang@ucsd.edu)
+Yandong Xiang (yaxiang@ucsd.edu)<br>
 B12 - Yusu Wang, Gal Mishne
 
 - **The most interesting topic covered are the GNN models.**
